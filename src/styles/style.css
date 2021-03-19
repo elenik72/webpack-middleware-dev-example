@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.headline {
+  color: rgb(32, 59, 214);
+  text-align: center;
+}
